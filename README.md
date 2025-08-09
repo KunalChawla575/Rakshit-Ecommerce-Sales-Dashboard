@@ -62,7 +62,7 @@ To create an interactive analytics tool that:
 - Built data connections, joined tables and created calculations for deeper insights
 - Applied various visualizations such as bar charts, pie charts, donut charts, scatter plots, line charts, area charts and maps
 
-## 📸 Screenshots / Demos
+## 📸 Screenshot
 
 Below is the preview of the dashboard:
 <img width="1164" height="650" alt="Ecommerce Sales Dasboard" src="https://github.com/user-attachments/assets/467cedf4-7775-4932-9446-5f2f3e9af738" />
