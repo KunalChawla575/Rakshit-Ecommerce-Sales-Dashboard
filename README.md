@@ -1,7 +1,7 @@
 # Rakshit-Ecommerce-Sales-Dashboard #
 
 An interactive Power BI dashboard built to help the owner of Rakshit Store track and analyze their online sales across India.  
-The dashboard provides a clear, visual representation of sales performance, profit trends, and customer behavior — enabling smarter business decisions.
+The dashboard provides a clear, visual representation of sales performance, profit trends, and customer behavior - enabling smarter business decisions.
 
 ## 🔍 Purpose
 
@@ -65,4 +65,4 @@ To create an interactive analytics tool that:
 ## 📸 Screenshots / Demos
 
 Below is the preview of the dashboard:
-https://github.com/KunalChawla575/Rakshit-Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dasboard.png
+<img width="1164" height="650" alt="Ecommerce Sales Dasboard" src="https://github.com/user-attachments/assets/467cedf4-7775-4932-9446-5f2f3e9af738" />
