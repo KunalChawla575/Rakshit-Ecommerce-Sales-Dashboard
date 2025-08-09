@@ -65,3 +65,4 @@ To create an interactive analytics tool that:
 ## 📸 Screenshots / Demos
 
 Below is the preview of the dashboard:
+https://github.com/KunalChawla575/Rakshit-Ecommerce-Sales-Dashboard/blob/main/Ecommerce%20Sales%20Dasboard.png
